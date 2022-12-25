@@ -10,10 +10,7 @@ Este problema não possui nenhuma entrada.
 
 Você deve imprimir a mensagem "Hello World!" e em seguida o final de linha, conforme o exemplo abaixo.
 
-## Exemplo de entrada
+| Exemplo de Entrada  | Exemplo de Saída |
+| ------------- | ------------- |
+|               | Hello World!  |
 
-<não possui entrada>
-
-## Exemplos de saída
-
-Hello World!
